@@ -2,12 +2,17 @@
 i'm backend developer using Spring. 
 
 
+
 <div align="center">
   🛠️ skils 🛠️
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+
 
 
 

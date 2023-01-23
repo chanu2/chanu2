@@ -1,6 +1,12 @@
 ### Hi there! 👋  
 i'm backend developer using Spring. 
 
+<div align="center">
+  🛠️ skils 🛠️
+</div>
+
+
+
 <!--
 **chanu2/chanu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

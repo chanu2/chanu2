@@ -7,7 +7,7 @@ i'm backend developer using Spring.
 </div>
 
 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 
 

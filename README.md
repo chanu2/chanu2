@@ -6,7 +6,8 @@ i'm backend developer using Spring.
   🛠️ skils 🛠️
 </div>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/#6DB33F?style=flat-square&logo=Android&logoColor=white"/>
 
 
 
